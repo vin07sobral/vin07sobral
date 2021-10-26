@@ -23,7 +23,7 @@
 
   
   
-- 🔭 I’m currently working on Churn Analysis
+- 🔭 I’m currently working GA4 Implementation
 - 🌱 I’m currently learning python for DS
 - 👯 I’m looking to collaborate on DS Projects
 - 💬 Ask me about Digital Analytics...
