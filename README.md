@@ -23,9 +23,9 @@
 
   
   
-- 🔭 I’m currently working GA4 Implementation
+- 🔭 I’m currently working as a Product Manager
 - 🌱 I’m currently learning python for DS
-- 👯 I’m looking to collaborate on DS Projects
-- 💬 Ask me about Digital Analytics...
+- 👯 I’m looking to collaborate on Product
+- 💬 Ask me about Product Management...
 - 📫 How to reach me: by email: mvinicius.sobral@gmail.com
 
