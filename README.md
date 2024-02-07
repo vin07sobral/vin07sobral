@@ -1,4 +1,4 @@
-### Hey I'm Marcus 👋 I'm a Senior Digital Data Analyst trying to become a Data Scientist
+### Hey I'm Marcus 👋 I'm a Technical Product Manager
 
 
  <div>
