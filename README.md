@@ -1,4 +1,4 @@
-### Hey I'm Marcus 👋 I'm a Technical Product Manager
+### Hey I'm Marcus 👋 I'm a AI Product Lead
 
 
  <div>
@@ -23,9 +23,9 @@
 
   
   
-- 🔭 I’m currently working as a Product Manager
-- 🌱 I’m currently learning python for DS
+- 🔭 I’m currently working as AI Product Lead
+- 🌱 I’m currently learning Agent AIs
 - 👯 I’m looking to collaborate on Product
-- 💬 Ask me about Product Management...
+- 💬 Ask me about AI Product Management...
 - 📫 How to reach me: by email: mvinicius.sobral@gmail.com
 
